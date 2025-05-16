@@ -6,7 +6,6 @@ A multi-agent AI system that simulates an agentic AI workforce to automate and s
 
 | Member | Role |
 |--------|------|
-| Vasim Ansari | AI Tools & Automation |
 | Tanveer Husain | Agent Developer |
 
 ## 🎯 Problem Statement
