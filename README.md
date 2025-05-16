@@ -2,8 +2,6 @@
 
 A multi-agent AI system that simulates an agentic AI workforce to automate and streamline hospital workflows.
 
-## 🏴‍☠️ Pirates Duo Team
-
 | Member | Role |
 |--------|------|
 | Tanveer Husain | Agent Developer |
